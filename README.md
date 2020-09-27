@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Baby Names 
 
-You can use the [editor on GitHub](https://github.com/rchadha96/baby-names-analysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The report provides information obtained through multiple analysis, regarding Baby names in Ireland 1964-2018. This report will pay particular attention to the trends in baby names and highlight common names between boys and girls while offering some explanation for observed changes. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The report will comment on the trends of the boy’s name and girl’s name over the years and which name are unique among all the names of the babies. Post the data cleaning, univariate and multi-variate exploration of the data helped us answer some of the above questions. 
+
+A variety of packages were used for this exercise, which are explained in the later sections. Each analysis has been explained along with its codes. 
 
 ### Markdown
 
